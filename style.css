@@ -4,6 +4,7 @@
   --color-light-orange: #fee0b8;
   --color-cyan: #cbf3f0;
   --color-dark: #333333;
+  --color-white: #ffffff;
 
   --fs-body: 1rem;
   --fs-title: 1.7rem;
@@ -60,7 +61,7 @@ nav ul li a {
 }
 nav ul li a:hover,
 .title:hover {
-  color: var(--color-dark);
+  color: var(--color-white);
 }
 
 .brand {
